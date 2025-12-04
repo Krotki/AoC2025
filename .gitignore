@@ -14,3 +14,5 @@ part2
 .vscode/
 *.iml
 **/input.txt
+
+aoc.toml
